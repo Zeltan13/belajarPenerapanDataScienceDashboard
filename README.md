@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
+# Proyek Pertama: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
 
 ## Business Understanding
 
